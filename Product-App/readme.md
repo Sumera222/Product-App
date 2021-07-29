@@ -12,5 +12,5 @@
 - open index.html in the browser.
 - https://github.com/Sumera222/Product-App
 - Live Link: 
-https://sumera.hassan.github.io-ProductApp-
+https://github.com/Sumera222/https-Sumera222.github.io-ProductApp-
 
