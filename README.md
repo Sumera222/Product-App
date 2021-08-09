@@ -12,9 +12,9 @@ This app has functionality of filtering items.
 # Technologies used:
 HTML, CSS, JavaScript (for coding and implementation on UI)
 
-Software needed to run for this app
+# Software needed to run for this app
 - VS Code (as Editor)
 - Browser (as runtime environment)
--
+- You can check code at https://github.com/Sumera222/Product-App
 # Live Project:
  https://sumera222.github.io/Product-App/
