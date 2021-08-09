@@ -9,11 +9,12 @@ A basic practice of a Simple Product Application created by me.
 # What does this app do?
 This app has functionality of filtering items.
 
--Technologies used:
+# Technologies used:
 HTML, CSS, JavaScript (for coding and implementation on UI)
 
 Software needed to run for this app
 - VS Code (as Editor)
 - Browser (as runtime environment)
-#Live Project:
+-
+# Live Project:
  https://sumera222.github.io/Product-App/
