@@ -1,5 +1,4 @@
 # Product-App
-A Basic Product App:
 A basic practice of a Simple Product Application created by me.
 
 - This repo is for JavaScript Problem solving Practice activity.
@@ -14,7 +13,7 @@ HTML, CSS, JavaScript (for coding and implementation on UI)
 
 # Software needed to run for this app
 - VS Code (as Editor)
-- Browser (as runtime environment)
+- Browser (we can run index.html on browser)
 - You can check code at https://github.com/Sumera222/Product-App
 # Live Project:
  https://sumera222.github.io/Product-App/
