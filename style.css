@@ -113,6 +113,7 @@
 #btnLike{
   float: right;
   background-color: rgb(73, 14, 73);
+  border-color: black ;
   border: none;
   color: white;
   padding: 10px;
@@ -131,7 +132,7 @@
 }
 
 #btnAdd {
-  background-color: palevioletred;
+  background-color: coral;
   font-family: 'Trebuchet MS';
   color: black;
   font-size: 20;
@@ -143,6 +144,7 @@
   margin-top: 10px;
   text-decoration:none;
   border-radius: 30px;
+  border-color: black ;
   transition-duration: 0.4s;
   box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
   
