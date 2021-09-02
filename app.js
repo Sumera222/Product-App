@@ -14,7 +14,7 @@ let products = [{
 },
 {
   productName: "Shirt",
-  image:`<img src="shirt-image.jpg" alt="shirt" width="173" height="120" class = "imageClass">`,
+  image:`<img src="shirt-image.jpg" alt="shirt" width="177" height="120" class = "imageClass">`,
   isLiked: false,
   tag: "clothes",
   price: "$700"
@@ -53,7 +53,7 @@ function filterSelection(c) {
   }
 }
 
-function w3AddClass(element, name) {
+function addClass(element, name) {
   var i, arr1, arr2;
   arr1 = element.className.split(" ");
   arr2 = name.split(" ");
@@ -62,7 +62,7 @@ function w3AddClass(element, name) {
   }
 }
 
-function w3RemoveClass(element, name) {
+function removeClass(element, name) {
   var i, arr1, arr2;
   arr1 = element.className.split(" ");
   arr2 = name.split(" ");
